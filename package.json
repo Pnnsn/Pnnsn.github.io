@@ -1,0 +1,24 @@
+{
+  "name": "pnav",
+  "version": "1.0.0",
+  "description": "P App聚合下载",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Pnnsn/Pnav.git"
+  },
+  "keywords": [
+    "P",
+    "App",
+    "聚合",
+    "下载"
+  ],
+  "author": "Pnnsn",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://gitlab.com/Pnnsn/Pnav/issues"
+  },
+  "homepage": "https://gitlab.com/Pnnsn/Pnav"
+}
